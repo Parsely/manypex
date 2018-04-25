@@ -1,7 +1,13 @@
-PEX
-===
-.. image:: https://travis-ci.org/pantsbuild/pex.svg?branch=master
-    :target: https://travis-ci.org/pantsbuild/pex
+ManyPEX
+=======
+.. image:: https://travis-ci.org/parsely/manypex.svg?branch=master
+    :target: https://travis-ci.org/parsely/manypex
+
+ManyPEX is a fork of the PEX project that adds support for manylinux wheels.
+We have `a PR <https://github.com/pantsbuild/pex/pull/316>`_ open to get this
+functionality into PEX, but it has been open since late 2016 with no signs of
+progress. As we (and many other users) needed this feature, we decided to fork
+for now.
 
 pex is a library for generating .pex (Python EXecutable) files which are
 executable Python environments in the spirit of `virtualenvs <http://virtualenv.org>`_.
