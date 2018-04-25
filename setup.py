@@ -25,9 +25,9 @@ with open(version_py_file) as version_py:
 
 
 setup(
-  name = 'pex',
+  name = 'manypex',
   version = __version__,
-  description = "The PEX packaging toolchain.",
+  description = "The PEX packaging toolchain with manylinux support.",
   long_description = LONG_DESCRIPTION,
   url = 'https://github.com/pantsbuild/pex',
   license = 'Apache License, Version 2.0',

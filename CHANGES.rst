@@ -1,6 +1,11 @@
 Release Notes
 =============
 
+1.3.2.post1
+-----
+
+* First release of manypex fork. Our hope is this will eventually be unnecessary, but for now this fork is the only place to get `#316 <https://github.com/pantsbuild/pex/pull/316>`_ merged.
+
 1.3.2
 -----
 
