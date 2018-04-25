@@ -30,22 +30,11 @@ pex is licensed under the Apache2 license.
 Installation
 ============
 
-To install pex, simply
+To install manypex, simply
 
 .. code-block:: bash
 
-    $ pip install pex
-
-You can also build pex in a git clone using tox:
-
-.. code-block:: bash
-
-    $ tox -e py27-package
-    $ cp dist/pex ~/bin
-
-This builds a pex binary in ``dist/pex`` that can be copied onto your ``$PATH``.
-The advantage to this approach is that it keeps your Python environment as empty as
-possible and is more in-line with what pex does philosophically.
+    $ pip install manypex
 
 
 Simple Examples
