@@ -1,7 +1,7 @@
 ManyPEX
 =======
-.. image:: https://travis-ci.org/parsely/manypex.svg?branch=master
-    :target: https://travis-ci.org/parsely/manypex
+.. image:: https://travis-ci.org/Parsely/manypex.svg?branch=master
+    :target: https://travis-ci.org/Parsely/manypex
 
 ManyPEX is a fork of the PEX project that adds support for manylinux wheels.
 We have `a PR <https://github.com/pantsbuild/pex/pull/316>`_ open to get this
