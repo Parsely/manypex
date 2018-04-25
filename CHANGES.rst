@@ -1,6 +1,11 @@
 Release Notes
 =============
 
+1.3.2.post2
+-----
+
+* Fix a couple typos in README and setup.py
+
 1.3.2.post1
 -----
 
