@@ -29,7 +29,7 @@ setup(
   version = __version__,
   description = "The PEX packaging toolchain with manylinux support.",
   long_description = LONG_DESCRIPTION,
-  url = 'https://github.com/pantsbuild/pex',
+  url = 'https://github.com/parsely/manypex',
   license = 'Apache License, Version 2.0',
   zip_safe = True,
   classifiers = [
